@@ -153,7 +153,7 @@ function loadNextQuestion () {
          <div class="summary">
             <h1>Summary</h1>
             <div class="final-data">
-                <img src = "https://static.wikia.nocookie.net/shadowandbone/images/8/89/Inej_by_Kevin_Wada.png/revision/latest?cb=20190103024650">
+                <a href="https://ibb.co/SdCnYcX"><img src="https://i.ibb.co/rcr683G/Inej-by-Kevin-Wada.webp" alt="Inej-by-Kevin-Wada" border="0"></a>
                 <p>You are Inej Ghafa! Known for your agility and sharp instincts, you are a skilled acrobat and a valuable asset to your team. Compassionate yet formidable, you prioritize justice and stand against those who exploit the vulnerable.</p>
             </div>
         </div>
