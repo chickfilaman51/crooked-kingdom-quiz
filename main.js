@@ -114,7 +114,7 @@ function loadNextQuestion () {
          <div class="summary">
             <h1>Summary</h1>
             <div class="final-data">
-                <img src = "https://static.wikia.nocookie.net/shadowandbone/images/6/68/Nina_by_Kevin_Wada.png/revision/latest?cb=20190103024553">
+                <a href="https://ibb.co/FkvxkJG"><img src="https://i.ibb.co/1YVvYKH/Nina-by-Kevin-Wada.png" alt="Nina-by-Kevin-Wada" border="0"></a>
                 <p>You are Nina! A passionate and empathetic individual, you harness formidable abilities and powers. Your love for life and dedication to your friends make you a loyal and caring companion. You embrace your abilities, using them to bridge gaps and foster understanding.</p>
             </div>
         </div>
