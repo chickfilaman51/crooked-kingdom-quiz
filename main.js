@@ -140,7 +140,7 @@ function loadNextQuestion () {
          <div class="summary">
             <h1>Summary</h1>
             <div class="final-data">
-                <img src = "https://static.wikia.nocookie.net/shadowandbone/images/b/b0/Jesper_by_Kevin_Wada.png/revision/latest?cb=20190103024158">
+                <a href="https://ibb.co/T4sGvxh"><img src="https://i.ibb.co/jySY6P4/Jesper-by-Kevin-Wada.png" alt="Jesper-by-Kevin-Wada" border="0"></a>
                 <p>You are Jesper Fahey! Quick-witted and with a penchant for risk-taking, you bring a sense of humor to even the direst situations. Your sharpshooting skills and love for excitement make you a dynamic and unpredictable presence.</p>
             </div>
         </div>
