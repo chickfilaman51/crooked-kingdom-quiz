@@ -1,11 +1,11 @@
 const questions = [
   {
     "question": "What is your preferred weapon?",
-    "answer1": "A concealed knife",
+    "answer1": "A fake old man's cane",
     "answer1Total": "6",  // Kaz
-    "answer2": "A pair of dueling pistols",
+    "answer2": "A concealed knife",
     "answer2Total": "5",  // Inej
-    "answer3": "A crossbow",
+    "answer3": "A pair of dueling pistols",
     "answer3Total": "4",  // Jesper
     "answer4": "Explosives and gadgets",
     "answer4Total": "3",  // Wylan
