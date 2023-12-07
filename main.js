@@ -166,7 +166,7 @@ function loadNextQuestion () {
          <div class="summary">
             <h1>Summary</h1>
             <div class="final-data">
-                <img src = "https://static.wikia.nocookie.net/shadowandbone/images/d/d4/Kaz_by_Kevin_Wada.png/revision/latest?cb=20190103023705">
+                <a href="https://ibb.co/8zsNmXm"><img src="https://i.ibb.co/tZKQH3H/Kaz-by-Kevin-Wada.png" alt="Kaz-by-Kevin-Wada" border="0"></a>
                 <p>You are Kaz Brekker! A mastermind with a strategic mind, you thrive in the shadows. Resourceful and cunning, you navigate the world with a calculated precision. Despite a tough exterior, there's more to you than meets the eye.</p>
             </div>
         </div>
