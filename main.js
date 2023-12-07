@@ -101,7 +101,7 @@ function loadNextQuestion () {
          <div class="summary">
             <h1>Summary</h1>
             <div class="final-data">
-                <img src = "https://static.wikia.nocookie.net/shadowandbone/images/f/fb/Matthias_by_Kevin_Wada.png/revision/latest?cb=20190103023906">
+                <a href="https://ibb.co/CMWcW4t"><img src="https://i.ibb.co/JyC1C8d/Matthias-by-Kevin-Wada.png" alt="Matthias-by-Kevin-Wada" border="0"></a>
                 <p>You are Matthias! You follow the rules and are loyal to people you admire and love and are a soldier. You dont lie nor cheat and always do the right thing if possible. You are strong and noble.</p>
             </div>
         </div>
