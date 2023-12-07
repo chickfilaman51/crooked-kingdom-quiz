@@ -127,7 +127,7 @@ function loadNextQuestion () {
          <div class="summary">
             <h1>Summary</h1>
             <div class="final-data">
-                <img src = "https://static.wikia.nocookie.net/shadowandbone/images/0/06/Wylan_and_Kuwei_by_Kevin_Wada.png/revision/latest?cb=20190103024053">
+                <a href="https://ibb.co/k1gsJ08"><img src="https://i.ibb.co/nCsNBfc/Wylan-and-Kuwei-by-Kevin-Wada.png" alt="Wylan-and-Kuwei-by-Kevin-Wada" border="0"></a>
                 <p>You are Wylan Van Eck! A talented musician with a keen intellect, you bring a unique perspective to your group. Despite facing challenges, you use your creativity and determination to overcome obstacles. Your kindness and loyalty make you an invaluable ally to those around you.</p>
             </div>
         </div>
